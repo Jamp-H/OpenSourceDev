@@ -1,1 +1,2 @@
-For first pull request for Hacktober
+For first pull request for Hacktober (Person1)
+For first pull request for Hacktober (Person2)
